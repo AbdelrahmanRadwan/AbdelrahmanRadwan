@@ -4,13 +4,13 @@
 ---
 
 <p align="center">
-  <a href="https://solo.to/lil_addy" target="_blank">
+  <a href="https://solo.to/lil_addy" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-solo.to/lil_addy-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
   </a>
-  <a href="https://mentorcruise.com/mentor/addyradwan/" target="_blank">
+  <a href="https://mentorcruise.com/mentor/addyradwan/" target="blank">
     <img src="https://img.shields.io/badge/MentorCruise-Top%201%25-green?style=for-the-badge&logo=mentor" alt="MentorCruise" />
   </a>
-  <a href="https://www.linkedin.com/in/abdelrahmanradwan/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelrahmanradwan/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -25,6 +25,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanradwan&show_icons=true&locale=en&layout=compact" alt="abdelrahmanradwan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanradwan&show_icons=true&locale=en" alt="abdelrahmanradwan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanradwan&" alt="abdelrahmanradwan" /></p>
 
 ---
 
@@ -46,11 +51,23 @@
 ### 📌 Pinned Projects
 
 <p align="left">
-  <a href="https://github.com/AbdelrahmanRadwan/photo-coloring" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=photo-coloring&theme=radical" />
+  <a href="https://github.com/AbdelrahmanRadwan/Classical-GameBox" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Classical-GameBox" />
   </a>
   <a href="https://github.com/AbdelrahmanRadwan/object-detection" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=object-detection&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=object-detection" />
+  </a>
+  <a href="https://github.com/AbdelrahmanRadwan/Intelligent-Scissors" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Intelligent-Scissors" />
+  </a>
+  <a href="https://github.com/AbdelrahmanRadwan/photo-coloring" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=photo-coloring" />
+  </a>
+  <a href="https://github.com/AbdelrahmanRadwan/Open-Domain-ChatBot" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Open-Domain-ChatBot" />
+  </a>
+  <a href="https://github.com/AbdelrahmanRadwan/Push-Notifications-compressor" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Push-Notifications-compressor" />
   </a>
 </p>
 
@@ -60,15 +77,6 @@
 
 - 💼 [Portfolio](https://solo.to/lil_addy)
 - 👥 [MentorCruise Profile](https://mentorcruise.com/mentor/addyradwan/)
-- 💬 [Coding Coach Profile](https://mentors.codingcoach.io/u/63f256204474770664cc2e23)
 - 📝 [GitHub Gist](https://gist.github.com/AbdelrahmanRadwan)
 - 🧑‍💻 [StopStalk Profile](https://www.stopstalk.com/user/profile/Radwan)
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanradwan&show_icons=true&locale=en&layout=compact" alt="abdelrahmanradwan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanradwan&show_icons=true&locale=en" alt="abdelrahmanradwan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanradwan&" alt="abdelrahmanradwan" /></p>
 
