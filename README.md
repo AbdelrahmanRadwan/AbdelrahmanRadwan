@@ -10,7 +10,7 @@
   <a href="https://mentorcruise.com/mentor/addyradwan/" target="blank">
     <img src="https://img.shields.io/badge/MentorCruise-Top%201%25-green?style=for-the-badge&logo=mentor" alt="MentorCruise" />
   </a>
-  <a href="https://www.linkedin.com/in/abdelrahmanradwan/" target="blank">
+  <a href="https://www.linkedin.com/in/addy-radwan/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
