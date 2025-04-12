@@ -4,19 +4,22 @@
 ---
 
 <p align="center">
-  <a href="https://solo.to/lil_addy" target="blank">
+  <a href="https://solo.to/lil_addy">
     <img src="https://img.shields.io/badge/Portfolio-solo.to/lil_addy-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
   </a>
-  <a href="https://mentorcruise.com/mentor/addyradwan/" target="blank">
+
+  <a href="https://mentorcruise.com/mentor/addyradwan/">
     <img src="https://img.shields.io/badge/MentorCruise-Top%201%25-green?style=for-the-badge&logo=mentor" alt="MentorCruise" />
   </a>
-  <a href="https://www.linkedin.com/in/addy-radwan/" target="blank">
+
+  <a href="https://www.linkedin.com/in/addy-radwan/" >
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdelrahmanradwan&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanradwan" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelrahmanradwan&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanradwan" style="width: 150px; height: auto;" />
+
 </p>
 
 ---
@@ -40,6 +43,12 @@
 - 🧑‍🏫 **Mentorship**: Conducted over 2,500 interviews and mentored engineers preparing for FAANG interviews.
 - 🎵 **Interests**: Pianist and music producer in my free time.
 
+<p align="center">
+  <a href="https://mentorcruise.com/mentor/addyradwan/">
+    <img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" alt="MentorCruise">
+  </a>
+</p>
+  
 ---
 
 ### 🧰 Languages and Tools
