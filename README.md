@@ -60,22 +60,22 @@
 ### 📌 Pinned Projects
 
 <p align="left">
-  <a href="https://github.com/AbdelrahmanRadwan/Classical-GameBox" target="_blank">
+  <a href="https://github.com/AbdelrahmanRadwan/Classical-GameBox">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Classical-GameBox" />
   </a>
-  <a href="https://github.com/AbdelrahmanRadwan/object-detection" target="_blank">
+  <a href="https://github.com/AbdelrahmanRadwan/object-detection">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=object-detection" />
   </a>
-  <a href="https://github.com/AbdelrahmanRadwan/Intelligent-Scissors" target="_blank">
+  <a href="https://github.com/AbdelrahmanRadwan/Intelligent-Scissors" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Intelligent-Scissors" />
   </a>
-  <a href="https://github.com/AbdelrahmanRadwan/photo-coloring" target="_blank">
+  <a href="https://github.com/AbdelrahmanRadwan/photo-coloring" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=photo-coloring" />
   </a>
-  <a href="https://github.com/AbdelrahmanRadwan/Open-Domain-ChatBot" target="_blank">
+  <a href="https://github.com/AbdelrahmanRadwan/Open-Domain-ChatBot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Open-Domain-ChatBot" />
   </a>
-  <a href="https://github.com/AbdelrahmanRadwan/Push-Notifications-compressor" target="_blank">
+  <a href="https://github.com/AbdelrahmanRadwan/Push-Notifications-compressor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Push-Notifications-compressor" />
   </a>
 </p>
