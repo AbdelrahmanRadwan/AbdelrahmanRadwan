@@ -16,25 +16,14 @@
 
 ---
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanradwan" alt="abdelrahmanradwan" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanradwan&show_icons=true&locale=en" alt="abdelrahmanradwan" style="width: 45%; height: auto;"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanradwan&show_icons=true&locale=en&layout=compact" alt="abdelrahmanradwan" style="width: 45%; height: auto;" />
-</p>
-
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanradwan&" alt="abdelrahmanradwan" /></p>
-
----
-
 <p align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanRadwan&theme=github" alt="Profile Details" style="width: 100%; height: auto;">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdelrahmanRadwan&theme=github" alt="Repos Per Language" style="width: 45%; height: auto;">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdelrahmanRadwan&theme=github" alt="Most Commit Language" style="width: 45%; height: auto;">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdelrahmanRadwan&theme=github" alt="Stats" style="width: 45%; height: auto;">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdelrahmanRadwan&theme=github&utcOffset=8" alt="Productive Time" style="width: 45%; height: auto;">
+  	<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdelrahmanradwan&show_icons=true&locale=en" alt="abdelrahmanradwan" style="width: 45%; height: auto;"/>
+  	<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=abdelrahmanradwan&show_icons=true&locale=en&layout=compact" alt="abdelrahmanradwan" style="width: 45%; height: auto;" />
 </p>
 
 ---
@@ -102,12 +91,12 @@
 ### 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/AbdelrahmanRadwan/Classical-GameBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Classical-GameBox" /></a>
-  <a href="https://github.com/AbdelrahmanRadwan/object-detection"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=object-detection" /></a>
-  <a href="https://github.com/AbdelrahmanRadwan/Intelligent-Scissors" ><img  src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Intelligent-Scissors" /></a>
-  <a href="https://github.com/AbdelrahmanRadwan/photo-coloring" ><img  src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=photo-coloring" /></a>
-  <a href="https://github.com/AbdelrahmanRadwan/Open-Domain-ChatBot"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Open-Domain-ChatBot" /></a>
-  <a href="https://github.com/AbdelrahmanRadwan/Push-Notifications-compressor"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Push-Notifications-compressor" /></a>
+  <a href="https://github.com/AbdelrahmanRadwan/Classical-GameBox"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Classical-GameBox" /></a>
+  <a href="https://github.com/AbdelrahmanRadwan/object-detection"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=object-detection" /></a>
+  <a href="https://github.com/AbdelrahmanRadwan/Intelligent-Scissors" ><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Intelligent-Scissors" /></a>
+  <a href="https://github.com/AbdelrahmanRadwan/photo-coloring" ><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=photo-coloring" /></a>
+  <a href="https://github.com/AbdelrahmanRadwan/Open-Domain-ChatBot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Open-Domain-ChatBot" /></a>
+  <a href="https://github.com/AbdelrahmanRadwan/Push-Notifications-compressor"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Push-Notifications-compressor" /></a>
 </p>
 
 ---
